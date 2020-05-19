@@ -1,0 +1,26 @@
+{
+  "name": "js-bundler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yixian15/js-bundler.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yixian15/js-bundler/issues"
+  },
+  "homepage": "https://github.com/Yixian15/js-bundler#readme",
+  "dependencies": {
+    "@babel/core": "7.9.6",
+    "@babel/parser": "7.9.6",
+    "@babel/preset-env": "7.9.6",
+    "@babel/traverse": "7.9.6"
+  }
+}
